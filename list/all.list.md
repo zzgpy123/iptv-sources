@@ -215,7 +215,7 @@
 | 209 | [VGA]band sports | stream1.freetv.fun | <https://stream1.freetv.fun/c177bcf52d4823d9a7d0737d639960b94602bde4af05a0fef7afc6563f869985.m3u8> |
 | 210 | [BD]brat tv | stream1.freetv.fun | <https://stream1.freetv.fun/bd73a381bad19a6b0e4eca8e3a0fd925bc73b2a552667ff9cbf3704c9081aa80.m3u8> |
 | 211 | [BD]bein sports xtra | stream1.freetv.fun | <https://stream1.freetv.fun/ca42f4fe32ba4ded1616155baf333ac0371b9edeea239cd18f6274b492284937.m3u8> |
-| 212 | [HD]beach tv panama city | stream1.freetv.fun | <https://stream1.freetv.fun/4dae8f7baaac0dc937928e3077ce819c02d337336859f7187e4ca72332ac5917.m3u8> |
+| 212 | [HD]beach tv panama city (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/508f2efd0a90cc57174a4c9012518055877c9b68290257de66625bd008cc48ad.m3u8> |
 | 213 | [HD]bein | stream1.freetv.fun | <https://stream1.freetv.fun/6cb74d5a307abaa5b8ea51e8acd84aead7aa3cd953914c3d9cd346b764ec6e08.m3u8> |
 | 214 | [HD]bein sports fr 2 | stream1.freetv.fun | <https://stream1.freetv.fun/8131e7ea922f1f0831f0212a4df8b296bc5721a1bb622998c30759cf82af82a9.ctv> |
 | 215 | [BD]berita rtm | stream1.freetv.fun | <https://stream1.freetv.fun/132fcf130129b8f17f5ebdac0029e6d6e6d5ab238ac0beefb6fd2ed4589efcea.m3u8> |
@@ -1830,4 +1830,4 @@
 | 1824 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1825 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Wed Mar 05 2025 16:26:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 05 2025 18:22:50 GMT+0000 (Coordinated Universal Time)**
