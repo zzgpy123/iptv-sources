@@ -21,9 +21,8 @@
 | 15 | CCTV-11 (576p) | IPv4 直链 | <http://123.175.209.52:9003/hls/12/index.m3u8> |
 | 16 | CCTV-12 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/13/index.m3u8> |
 | 17 | CCTV-13新闻 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/14/index.m3u8> |
-| 18 | CCTV-14 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/15/index.m3u8> |
-| 19 | CCTV-15 (576p) | IPv4 直链 | <http://123.175.209.52:9003/hls/16/index.m3u8> |
-| 20 | CCTV-16 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/17/index.m3u8> |
-| 21 | CCTV-17 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/18/index.m3u8> |
+| 18 | CCTV-15 (576p) | IPv4 直链 | <http://123.175.209.52:9003/hls/16/index.m3u8> |
+| 19 | CCTV-16 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/17/index.m3u8> |
+| 20 | CCTV-17 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/18/index.m3u8> |
 
-Updated at **Mon Jan 19 2026 04:24:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 27 2026 04:35:33 GMT+0000 (Coordinated Universal Time)**
