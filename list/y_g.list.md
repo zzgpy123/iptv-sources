@@ -4,10 +4,10 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | 免费订阅：请勿贩卖... | epg-1.iill.top | <https://epg-1.iill.top/v/302.mp4> |
-| 2 | 维护时间：2025-1-15#佛系维护... | epg-1.iill.top | <https://epg-1.iill.top/v/301.mp4> |
-| 3 | 维护内容：维护 Gather「删除 •IPV6 源」 | epg-1.iill.top | <https://epg-1.iill.top/v/302.mp4> |
-| 4 | 公告说明：IPV6 暂无 | epg-1.iill.top | <https://epg-1.iill.top/v/301.mp4> |
+| 1 | 免费订阅：请勿贩卖... | epg.yang-1989.eu.org | <https://epg.yang-1989.eu.org/v/302.mp4> |
+| 2 | 维护时间：2025-1-15#佛系维护... | epg.yang-1989.eu.org | <https://epg.yang-1989.eu.org/v/301.mp4> |
+| 3 | 维护内容：维护 Gather「删除 •IPV6 源」 | epg.yang-1989.eu.org | <https://epg.yang-1989.eu.org/v/302.mp4> |
+| 4 | 公告说明：IPV6 暂无 | epg.yang-1989.eu.org | <https://epg.yang-1989.eu.org/v/301.mp4> |
 | 5 | 晴彩广场舞「移动」 | 咪咕 | <http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989> |
 | 6 | 晴彩少年「移动」 | 咪咕 | <http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989> |
 | 7 | 晴彩竞技「移动」 | 咪咕 | <http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989> |
@@ -53,85 +53,85 @@
 | 47 | 咪咕直播 𝟛𝟟「移动」 | 咪咕 | <http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989> |
 | 48 | 咪咕直播 𝟛𝟠「移动」 | 咪咕 | <http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989> |
 | 49 | 「B站」热门赛事 | dns.yiandrive.com:15907 | <http://dns.yiandrive.com:15907/bilibili/10> |
-| 50 | 「B站」CS 2 | live.iill.top | <https://live.iill.top/bilibili/21622811> |
-| 51 | 「虎牙」CS 2 | live.iill.top | <https://live.iill.top/huya/483917> |
-| 52 | 「B站」英雄联盟 | live.iill.top | <https://live.iill.top/bilibili/6> |
-| 53 | 「虎牙」英雄联盟 𝟙 | live.iill.top | <https://live.iill.top/huya/660000> |
-| 54 | 「虎牙」英雄联盟 𝟚 | live.iill.top | <https://live.iill.top/huya/660001> |
-| 55 | 「斗鱼」英雄联盟 𝟙 | live.iill.top | <https://live.iill.top/douyu/288016> |
-| 56 | 「斗鱼」英雄联盟 𝟚 | live.iill.top | <https://live.iill.top/douyu/424559> |
-| 57 | 「B站」英雄联盟•手游 | live.iill.top | <https://live.iill.top/bilibili/23138275> |
-| 58 | 「B站」王者荣耀 𝟙 | live.iill.top | <https://live.iill.top/bilibili/55> |
-| 59 | 「B站」王者荣耀 𝟚 | live.iill.top | <https://live.iill.top/bilibili/21654762> |
-| 60 | 「虎牙」王者荣耀 𝟙 | live.iill.top | <https://live.iill.top/huya/660002> |
-| 61 | 「虎牙」王者荣耀 𝟚 | live.iill.top | <https://live.iill.top/huya/660164> |
-| 62 | 「斗鱼」王者荣耀 𝟙 | live.iill.top | <https://live.iill.top/douyu/1863767> |
-| 63 | 「斗鱼」王者荣耀 𝟚 | live.iill.top | <https://live.iill.top/douyu/1984839> |
-| 64 | 「B站」绝地求生 | live.iill.top | <https://live.iill.top/bilibili/98> |
-| 65 | 「虎牙」绝地求生 𝟙 | live.iill.top | <https://live.iill.top/huya/660004> |
-| 66 | 「虎牙」绝地求生 𝟚 | live.iill.top | <https://live.iill.top/huya/660005> |
-| 67 | 「斗鱼」绝地求生 | live.iill.top | <https://live.iill.top/douyu/100> |
-| 68 | 「虎牙」和平精英 | live.iill.top | <https://live.iill.top/huya/660006> |
-| 69 | 「斗鱼」和平精英 | live.iill.top | <https://live.iill.top/douyu/999> |
-| 70 | 「虎牙」金铲铲之战 | live.iill.top | <https://live.iill.top/huya/660579> |
-| 71 | 「斗鱼」金铲铲之战 | live.iill.top | <https://live.iill.top/douyu/9715241> |
-| 72 | 「虎牙」DOTA2 | live.iill.top | <https://live.iill.top/huya/660118> |
-| 73 | 「斗鱼」DOTA2 | live.iill.top | <https://live.iill.top/douyu/3811559> |
-| 74 | 「斗鱼」云顶之弈 | live.iill.top | <https://live.iill.top/douyu/522423> |
-| 75 | 「虎牙」永劫无间 | live.iill.top | <https://live.iill.top/huya/660115> |
-| 76 | 「斗鱼」永劫无间 | live.iill.top | <https://live.iill.top/huya/9662891> |
-| 77 | 「B站」使命召唤•手游 | live.iill.top | <https://live.iill.top/bilibili/22741849> |
-| 78 | 「虎牙」使命召唤•手游 | live.iill.top | <https://live.iill.top/huya/11718629> |
-| 79 | 「斗鱼」使命召唤•手游 | live.iill.top | <https://live.iill.top/douyu/9223245> |
-| 80 | 「虎牙」穿越火线 | live.iill.top | <https://live.iill.top/huya/660101> |
-| 81 | 「斗鱼」穿越火线 𝟙 | live.iill.top | <https://live.iill.top/douyu/605964> |
-| 82 | 「斗鱼」穿越火线 𝟚 | live.iill.top | <https://live.iill.top/douyu/5388537> |
-| 83 | 「虎牙」穿越火线•手游 | live.iill.top | <https://live.iill.top/huya/660102> |
-| 84 | 「B站」第五人格 | live.iill.top | <https://live.iill.top/bilibili/5555> |
-| 85 | 「虎牙」第五人格 | live.iill.top | <https://live.iill.top/huya/idvesports> |
-| 86 | 「斗鱼」第五人格 | live.iill.top | <https://live.iill.top/douyu/3226194> |
-| 87 | 「虎牙」逆战 | live.iill.top | <https://live.iill.top/huya/nsl2021> |
-| 88 | 「B站」无畏契约 | live.iill.top | <https://live.iill.top/bilibili/22908869> |
-| 89 | 「虎牙」无畏契约 | live.iill.top | <https://live.iill.top/huya/660679> |
-| 90 | 「斗鱼」无畏契约 | live.iill.top | <https://live.iill.top/douyu/4585645> |
-| 91 | 「斗鱼」原神 | live.iill.top | <https://live.iill.top/douyu/10853239> |
-| 92 | 「B站」QQ飞车•手游 | live.iill.top | <https://live.iill.top/bilibili/21743919> |
-| 93 | 「斗鱼」QQ飞车•手游 | live.iill.top | <https://live.iill.top/douyu/5040227> |
-| 94 | 「斗鱼」梦幻西游·手游 | live.iill.top | <https://live.iill.top/huya/9163712> |
-| 95 | 「斗鱼」街霸 | live.iill.top | <https://live.iill.top/huya/11437> |
-| 96 | 「B站」JJ斗地主 | live.iill.top | <https://live.iill.top/bilibili/22021983> |
-| 97 | 「斗鱼」JJ斗地主 | live.iill.top | <https://live.iill.top/douyu/488743> |
-| 98 | 「斗鱼」我的世界 | live.iill.top | <https://live.iill.top/douyu/738878> |
-| 99 | 「斗鱼」FIFA | live.iill.top | <https://live.iill.top/douyu/7692166> |
-| 100 | 「斗鱼」火影忍者 | live.iill.top | <https://live.iill.top/douyu/1997723> |
-| 101 | 「斗鱼」跑跑卡丁车 | live.iill.top | <https://live.iill.top/douyu/7722576> |
-| 102 | 「斗鱼」跑跑卡丁车•手游 | live.iill.top | <https://live.iill.top/douyu/6672862> |
-| 103 | 音乐石榴「音乐」 | live.iill.top | <https://live.iill.top/huya/17091681> |
-| 104 | 音乐速递「音乐」 | live.iill.top | <https://live.iill.top/huya/19439762> |
-| 105 | 治愈•放松「音乐」 | live.iill.top | <https://live.iill.top/huya/21241811> |
-| 106 | 阅读•学习「音乐」 | live.iill.top | <https://live.iill.top/huya/21241813> |
-| 107 | 电视剧•1「解说」 | live.iill.top | <https://live.iill.top/huya/21277391> |
-| 108 | 电视剧•2「解说」 | live.iill.top | <https://live.iill.top/huya/25018873> |
-| 109 | 电影•1「解说」 | live.iill.top | <https://live.iill.top/huya/20289754> |
-| 110 | 电影•2「解说」 | live.iill.top | <https://live.iill.top/huya/24983280> |
-| 111 | 电影•3「解说」 | live.iill.top | <https://live.iill.top/huya/24396428> |
-| 112 | 动漫•1「解说」 | live.iill.top | <https://live.iill.top/huya/19757963> |
-| 113 | 恐怖电影「解说」 | live.iill.top | <https://live.iill.top/huya/23419131> |
-| 114 | 漫威「解说」 | live.iill.top | <https://live.iill.top/huya/17089779> |
-| 115 | 美剧「解说」 | live.iill.top | <https://live.iill.top/huya/20488841> |
-| 116 | 七龙珠「解说」 | live.iill.top | <https://live.iill.top/huya/25650806> |
-| 117 | 止戈电影「解说」 | live.iill.top | <https://live.iill.top/huya/19863777> |
-| 118 | 挨饿德•1「其他」 | live.iill.top | <https://live.iill.top/huya/20985858> |
-| 119 | 挨饿德•2「其他」 | live.iill.top | <https://live.iill.top/huya/17693860> |
-| 120 | 互扇巴掌大赛「其他」 | live.iill.top | <https://live.iill.top/huya/20072873> |
-| 121 | 荒野求生「其他」 | live.iill.top | <https://live.iill.top/huya/593667> |
-| 122 | 野行者「其他」 | live.iill.top | <https://live.iill.top/huya/20072663> |
-| 123 | 跳舞「其他」 | live.iill.top | <https://live.iill.top/huya/24634408> |
-| 124 | 茶啊二中「动画」 | live.iill.top | <https://live.iill.top/huya/11213191> |
-| 125 | 哆啦A梦「动漫」 | live.iill.top | <https://live.iill.top/huya/11601963> |
-| 126 | 航海王「动漫」 | live.iill.top | <https://live.iill.top/huya/16913382> |
-| 127 | 七龙珠「动漫」 | live.iill.top | <https://live.iill.top/huya/11601966> |
-| 128 | 猫和老鼠「动漫」 | live.iill.top | <https://live.iill.top/huya/11352879> |
-| 129 | 中华小当家「动漫」 | live.iill.top | <https://live.iill.top/huya/11342413> |
+| 50 | 「B站」CS 2 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/bilibili/21622811> |
+| 51 | 「虎牙」CS 2 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/483917> |
+| 52 | 「B站」英雄联盟 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/bilibili/6> |
+| 53 | 「虎牙」英雄联盟 𝟙 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/660000> |
+| 54 | 「虎牙」英雄联盟 𝟚 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/660001> |
+| 55 | 「斗鱼」英雄联盟 𝟙 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/288016> |
+| 56 | 「斗鱼」英雄联盟 𝟚 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/424559> |
+| 57 | 「B站」英雄联盟•手游 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/bilibili/23138275> |
+| 58 | 「B站」王者荣耀 𝟙 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/bilibili/55> |
+| 59 | 「B站」王者荣耀 𝟚 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/bilibili/21654762> |
+| 60 | 「虎牙」王者荣耀 𝟙 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/660002> |
+| 61 | 「虎牙」王者荣耀 𝟚 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/660164> |
+| 62 | 「斗鱼」王者荣耀 𝟙 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/1863767> |
+| 63 | 「斗鱼」王者荣耀 𝟚 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/1984839> |
+| 64 | 「B站」绝地求生 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/bilibili/98> |
+| 65 | 「虎牙」绝地求生 𝟙 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/660004> |
+| 66 | 「虎牙」绝地求生 𝟚 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/660005> |
+| 67 | 「斗鱼」绝地求生 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/100> |
+| 68 | 「虎牙」和平精英 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/660006> |
+| 69 | 「斗鱼」和平精英 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/999> |
+| 70 | 「虎牙」金铲铲之战 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/660579> |
+| 71 | 「斗鱼」金铲铲之战 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/9715241> |
+| 72 | 「虎牙」DOTA2 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/660118> |
+| 73 | 「斗鱼」DOTA2 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/3811559> |
+| 74 | 「斗鱼」云顶之弈 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/522423> |
+| 75 | 「虎牙」永劫无间 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/660115> |
+| 76 | 「斗鱼」永劫无间 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/9662891> |
+| 77 | 「B站」使命召唤•手游 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/bilibili/22741849> |
+| 78 | 「虎牙」使命召唤•手游 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/11718629> |
+| 79 | 「斗鱼」使命召唤•手游 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/9223245> |
+| 80 | 「虎牙」穿越火线 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/660101> |
+| 81 | 「斗鱼」穿越火线 𝟙 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/605964> |
+| 82 | 「斗鱼」穿越火线 𝟚 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/5388537> |
+| 83 | 「虎牙」穿越火线•手游 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/660102> |
+| 84 | 「B站」第五人格 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/bilibili/5555> |
+| 85 | 「虎牙」第五人格 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/idvesports> |
+| 86 | 「斗鱼」第五人格 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/3226194> |
+| 87 | 「虎牙」逆战 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/nsl2021> |
+| 88 | 「B站」无畏契约 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/bilibili/22908869> |
+| 89 | 「虎牙」无畏契约 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/660679> |
+| 90 | 「斗鱼」无畏契约 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/4585645> |
+| 91 | 「斗鱼」原神 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/10853239> |
+| 92 | 「B站」QQ飞车•手游 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/bilibili/21743919> |
+| 93 | 「斗鱼」QQ飞车•手游 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/5040227> |
+| 94 | 「斗鱼」梦幻西游·手游 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/9163712> |
+| 95 | 「斗鱼」街霸 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/11437> |
+| 96 | 「B站」JJ斗地主 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/bilibili/22021983> |
+| 97 | 「斗鱼」JJ斗地主 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/488743> |
+| 98 | 「斗鱼」我的世界 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/738878> |
+| 99 | 「斗鱼」FIFA | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/7692166> |
+| 100 | 「斗鱼」火影忍者 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/1997723> |
+| 101 | 「斗鱼」跑跑卡丁车 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/7722576> |
+| 102 | 「斗鱼」跑跑卡丁车•手游 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/douyu/6672862> |
+| 103 | 音乐石榴「音乐」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/17091681> |
+| 104 | 音乐速递「音乐」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/19439762> |
+| 105 | 治愈•放松「音乐」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/21241811> |
+| 106 | 阅读•学习「音乐」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/21241813> |
+| 107 | 电视剧•1「解说」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/21277391> |
+| 108 | 电视剧•2「解说」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/25018873> |
+| 109 | 电影•1「解说」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/20289754> |
+| 110 | 电影•2「解说」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/24983280> |
+| 111 | 电影•3「解说」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/24396428> |
+| 112 | 动漫•1「解说」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/19757963> |
+| 113 | 恐怖电影「解说」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/23419131> |
+| 114 | 漫威「解说」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/17089779> |
+| 115 | 美剧「解说」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/20488841> |
+| 116 | 七龙珠「解说」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/25650806> |
+| 117 | 止戈电影「解说」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/19863777> |
+| 118 | 挨饿德•1「其他」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/20985858> |
+| 119 | 挨饿德•2「其他」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/17693860> |
+| 120 | 互扇巴掌大赛「其他」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/20072873> |
+| 121 | 荒野求生「其他」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/593667> |
+| 122 | 野行者「其他」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/20072663> |
+| 123 | 跳舞「其他」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/24634408> |
+| 124 | 茶啊二中「动画」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/11213191> |
+| 125 | 哆啦A梦「动漫」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/11601963> |
+| 126 | 航海王「动漫」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/16913382> |
+| 127 | 七龙珠「动漫」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/11601966> |
+| 128 | 猫和老鼠「动漫」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/11352879> |
+| 129 | 中华小当家「动漫」 | cdn-3.ttvb.eu.org | <https://cdn-3.ttvb.eu.org/huya/11342413> |
 
-Updated at **Wed Apr 22 2026 05:58:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 28 2026 22:54:55 GMT+0000 (Coordinated Universal Time)**
