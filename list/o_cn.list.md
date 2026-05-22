@@ -28,7 +28,7 @@
 | 22 | CCTV-12 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv12hd.m3u8> |
 | 23 | CCTV-13 (1080p) | cdn3.163189.xyz | <https://cdn3.163189.xyz/163189/cctv13> |
 | 24 | CCTV-14 (1080p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv14hd.m3u8> |
-| 25 | CCTV-15 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv15hd.m3u8> |
+| 25 | CCTV-15 (1080p) | xykt-fix.github.io | <https://xykt-fix.github.io/play/a02e/index.m3u8> |
 | 26 | CCTV-16 (1080p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv16hd.m3u8> |
 | 27 | CCTV-17 (1080p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv17hd.m3u8> |
 | 28 | CETV1 (576p) | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV> |
@@ -157,4 +157,4 @@
 | 151 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
 | 152 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 
-Updated at **Thu May 21 2026 03:26:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 22 2026 07:41:07 GMT+0000 (Coordinated Universal Time)**
